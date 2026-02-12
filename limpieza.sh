@@ -21,5 +21,5 @@ fi
 echo "Estado actual del disco:"
 df -h | grep '^/dev/'
 
-echo "--- Proceso completado el: $(date) ---""
+echo "--- Proceso completado el: $(date) ---"
 echo "Mantenimiento realizado el: $(date)" >> registro_mantenimiento.txt
