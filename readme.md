@@ -1,5 +1,5 @@
 # Sistema Mantenedor de Procesos
-**Estudiante:** Daniel  
+**Estudiante:** Edison Tigrero Camacho /George Quintero Nazareno
 **Materia:** Ingeniería de Software / Sistemas  
 
 ## Descripción
@@ -7,7 +7,7 @@ Este proyecto consiste en un script de mantenimiento automatizado para la gesti�
 
 ## Arquitectura
 - **Lenguaje:** Bash Scripting
-- **Entorno:** Linux / Visual Studio Code
+- **Entorno:** Windows / Visual Studio Code
 - **Control de Versiones:** Git / GitHub
 
 ## Instrucciones de Uso
